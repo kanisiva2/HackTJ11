@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351142468345",
+    "project_id": "please-work-emdapr",
+    "storage_bucket": "please-work-emdapr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351142468345:android:d8938fc33d092522f6e028",
+        "android_client_info": {
+          "package_name": "com.mycompany.pleasework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkwD6cwHLxOs4QHg_mBDZfq2K10S2_uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
